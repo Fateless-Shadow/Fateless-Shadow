@@ -35,5 +35,3 @@ Building useful things and learning in public.
 </p>
 
 <a href="https://github.com/fateless-shadow">GitHub</a>
-
-<p align="center"><sub>Shadow-Dev · <a href="https://www.gitskins.com/readme-generator?template=community-jose-guilherme-paes-rodrigues-9v2b">José Guilherme Paes Rodrigues</a> template by <a href="https://www.gitskins.com/creators/josepaes23">@josepaes23</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
